@@ -1,6 +1,3 @@
-Here’s an updated, ATS-friendly version of your resume. I’ve made adjustments to format and content for improved clarity, keyword optimization, and readability by applicant tracking systems (ATS).
-
----
 
 **Mayukh Mandal**  
 Email: mayukhj89@gmail.com | LinkedIn: [linkedin.com/in/mayukh-mandal-b8b4b2142](https://www.linkedin.com/in/mayukh-mandal-b8b4b2142)  
